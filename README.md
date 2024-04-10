@@ -12,10 +12,14 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 **El enfoque:** bioinformación = información + ciencias médicas
 
  **El proceso: Manejo de literatura**
-1-.Recuperación
+1.Recuperación
+
 2.Anotación
+
 3.Curación
+
 4.Procesamiento
+
 5.Análisis y Visualización
 
 ## **Herramientas digitales**
