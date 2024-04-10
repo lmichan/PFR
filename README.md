@@ -3,13 +3,15 @@ El personal de salud que realiza pruebas de función respiratoria necesita conoc
 El objetivo de esta investigación es reunir toda la literatura de investigación y técnica sobre las pruebas de función respiratoria, describirla, clasificarla, ordenarla y reestructurarla para que, tanto humanos como máquinas, puedan procesarla de manera rápida y eficiente. Para cumplir nuestro propósito se realizaron anotaciones semánticas en la literatura especializada sobre pruebas de función respiratoria para  la conceptualización, la realización, la interpretación, el procesamiento y su uso por técnicos especializados en inhaloterapia para su implementación en hospitales, laboratorios y clínicas. 
 En este caso recuperamos literatura por medio de buscadores y bases de datos y diseñamos un protocolo de curación de documentos en hypothes.is, un anotador Web abierto social y semántico para generar anotaciones por medio de etiquetas y texto en XX documentos digitales para describir la información que contienen en dos dominios, la salud y el manejo de información, cuatro dimensiones: la teórica, la técnica, la metodológica y la análitica, 10 categorías entre las que están fuente, tipo de documento, acceso al documento, propósito del documento, tipo de prueba,  enfermedades, patrón funcional, ecuación para interpretación, tipo de equipo y que se dividen en más de 100.
 
+
+## Material y método
 **El objeto de estudio:** Documentos sobre Pruebas de Función respiratoria
 
 **El método:** Investigación Digital
 
 **El enfoque:** bioinformación = información + ciencias médicas
 
-## **El proceso: Manejo de literatura**
+ **El proceso: Manejo de literatura**
 1-.Recuperación
 2.Anotación
 3.Curación
@@ -59,8 +61,12 @@ Salud
       4.1.3.4.Criterios de calidad
       
 5.Enfermedad
-
 6.Figuras
+
+## Resultados
+Se ha generado una colección sobre documentos científicos y técnicos sobre pruebas de función respiratoria disponibles an la siguiente liga https://hypothes.is/search?q=BIOinformacionPFR
+
+
 
 
 
