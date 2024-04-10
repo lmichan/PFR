@@ -5,6 +5,7 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 
 
 ## Material y método
+
 **El objeto de estudio:** Documentos sobre Pruebas de Función respiratoria
 
 **El método:** Investigación Digital
@@ -12,6 +13,7 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 **El enfoque:** bioinformación = información + ciencias médicas
 
  **El proceso: Manejo de literatura**
+ 
 1.Recuperación
 
 2.Anotación
