@@ -35,18 +35,31 @@ Salud
 
 ## Etiquetas
 1.Proyecto: BIOinformacionPFR
+
 2.Tipo de anotación: AnotacionPFR
+
 3.Tipo de publicación: spar/fabio/
+
 4.Tema
+
   4.1.TipoDePrueba
+  
     4.1.1.Formato:reporte
+    
     4.1.2.Metadatos
+    
     4.1.3.Interpretación
+    
       4.1.3.1.Algoritmo
+      
       4.1.3.2.Valor
+      
       4.1.3.3.Curva
+      
       4.1.3.4.Criterios de calidad
+      
 5.Enfermedad
+
 6.Figuras
 
 
