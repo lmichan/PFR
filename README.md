@@ -1,6 +1,10 @@
-# Pruebas de Función Respiratoria (PFR)
+# Anotación de Pruebas sobre Función Respiratoria (PFR)
+
+**Pruebas sobre Función Respiratoria (PFR)**
 El personal de salud que realiza pruebas de función respiratoria necesita conocer la literatura especializada para utilizar el equipo, establecer un diagnóstico e interpretar los resultados para el seguimiento y tratamiento de las enfermedades pulmonares. Aunque existe gran cantidad y diversidad de bibliografía que es estratégica sobre pruebas de función respiratoria, está dispersa en el tiempo y el espacio, por lo que es difícil de encontrar, complicado de acceder y resulta tardado y laborioso identificar la información clave en la toma de decisiones. 
 El objetivo de esta investigación es reunir toda la literatura de investigación y técnica sobre las pruebas de función respiratoria, describirla, clasificarla, ordenarla y reestructurarla para que, tanto humanos como máquinas, puedan procesarla de manera rápida y eficiente. Para cumplir nuestro propósito se realizaron anotaciones semánticas en la literatura especializada sobre pruebas de función respiratoria para  la conceptualización, la realización, la interpretación, el procesamiento y su uso por técnicos especializados en inhaloterapia para su implementación en hospitales, laboratorios y clínicas. 
+
+**Anotación semántica con hypothes.is**
 En este caso recuperamos literatura por medio de buscadores y bases de datos y diseñamos un protocolo de curación de documentos en hypothes.is, un anotador Web abierto social y semántico para generar anotaciones por medio de etiquetas y texto en XX documentos digitales para describir la información que contienen en dos dominios, la salud y el manejo de información, cuatro dimensiones: la teórica, la técnica, la metodológica y la análitica, 10 categorías entre las que están fuente, tipo de documento, acceso al documento, propósito del documento, tipo de prueba,  enfermedades, patrón funcional, ecuación para interpretación, tipo de equipo y que se dividen en más de 100.
 
 
@@ -24,10 +28,14 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 
 5.Análisis y Visualización
 
-## **Herramientas digitales**
+## Herramientas digitales
+
 -Google Drive
+
 -Hypothes.is
+
 -Zotero
+
 -Biontologías
 
 ## Variables
