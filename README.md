@@ -40,16 +40,19 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 
 -Biontologías
 
-## Variables
+## Anotación de las variables (AnotacionPFR)
 
 Manejo de información
 1. Tipo de documento (SPAR Ontology)
+2. Tema
 3. Acceso al documento
 
 Salud
 1.Tipo de prueba
-2.Tema
-3.Enfermedad
+2.Etapa de la prueba
+3.Patrón funcional
+4.Enfermedad
+
 
 ## Etiquetas
 1.Proyecto: BIOinformacionPFR
