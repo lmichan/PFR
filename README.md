@@ -44,7 +44,7 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 
 Manejo de información
 1. Tipo de documento (SPAR Ontology)
-2. Acceso al documento
+3. Acceso al documento
 
 Salud
 1.Tipo de prueba
