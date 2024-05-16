@@ -35,6 +35,8 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
 -Google Drive
 
 -Hypothes.is
+Generación de las anotaciones https://web.hypothes.is/
+Procesamiento de las anotaciones: dos herramientas digitales diseñadas por Jon Udell: https://jonudell.info/h/tools.html y https://jonudell.info/h/facet  
 
 -Zotero
 
