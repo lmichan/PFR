@@ -21,6 +21,9 @@ En este caso recuperamos literatura por medio de buscadores y bases de datos y d
  **El proceso: Manejo de literatura**
  
 1.Recuperación
+Consulta
+Los documentos tipo se pueden ver en el enlace https://hypothes.is/search?q=articulo_tipo_PFR
+
 
 2.Anotación
 
